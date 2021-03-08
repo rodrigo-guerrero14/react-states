@@ -1,0 +1,8 @@
+.content-header{
+  border: 1px solid #EBEEF0;
+  color: rgb(24, 24, 24);
+  display: flex;
+  padding: 0 20px;
+  margin-top: 16px;
+  font-size: .75em;
+}

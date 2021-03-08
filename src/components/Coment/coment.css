@@ -1,0 +1,27 @@
+.coment-content{
+  border: 1px solid #EBEEF0;
+  display: grid;
+  grid-template-columns: .3fr 1fr;
+  grid-template-rows: 30px 1fr;
+  row-gap: 8px;
+  padding: 24px 0px;
+}
+
+.coment-content img{
+  align-self: center;
+  background-color: rgb(128, 126, 126);
+  border-radius: 50%;
+  justify-self: center;
+}
+
+.coment-content h3 {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.coment-content p {
+  grid-column: 2/3 ;
+  margin: 0;
+
+}
